@@ -1,0 +1,17 @@
+h2{
+    color: coral;
+}
+body 
+{
+    background-color: bisque;
+}
+.main{
+ margin-left: 100px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius:50%;
+    margin-left: 800px;
+}
+
